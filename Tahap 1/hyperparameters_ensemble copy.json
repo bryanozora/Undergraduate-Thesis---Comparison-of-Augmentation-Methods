@@ -1,0 +1,17 @@
+{
+    "best_params": {
+        "final_estimator__C": 10,
+        "rf__max_depth": null,
+        "rf__min_samples_split": 2,
+        "rf__n_estimators": 200,
+        "svm__C": 10
+    },
+    "cv_best_f1": 0.6651287506094049,
+    "metrics_on_hpt_subset": {
+        "accuracy": 0.9521904380876175,
+        "precision": 0.9343065693430657,
+        "recall": 0.8058761804826863,
+        "f1_score": 0.8653521126760564,
+        "auc": 0.9945197386404719
+    }
+}

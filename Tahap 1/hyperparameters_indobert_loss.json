@@ -1,0 +1,9 @@
+{
+    "params": {
+        "batch_size": 16,
+        "epochs": 10,
+        "lr": 5e-05,
+        "max_len": 128
+    },
+    "loss": 0.3701117483692037
+}

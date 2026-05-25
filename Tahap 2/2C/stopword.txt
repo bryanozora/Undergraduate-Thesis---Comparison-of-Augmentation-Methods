@@ -1,0 +1,50 @@
+kata_kritis = {
+    # 1. NEGASI
+    'tidak', 'tidakkah', 'tidaklah',
+    'tak',
+    'bukan', 'bukankah', 'bukanlah', 'bukannya',
+    'tanpa',
+    'belum', 'belumlah',
+    'jangan', 'janganlah', 'jangankan',
+    'enggak', 'enggaknya',
+
+    # 2. REFERENSI DIRI / PRONOMINA
+    'aku', 'akulah',
+    'saya', 'sayalah',
+    'kami', 'kamilah',
+    'kita', 'kitalah',
+    'kamu', 'kamulah',
+    'anda', 'andalah',
+    'dia', 'dialah',
+    'ia', 'ialah',
+    'mereka', 'merekalah',
+
+    # 3. PERTANYAAN / INTEROGATIF
+    'apa', 'apaan',
+    'apakah', 'apatah',
+    'bagaimana', 'bagaimanakah',
+    'berapa', 'berapakah', 'berapalah',
+    'bilakah',
+    'kapan', 'kapankah',
+    'kenapa',
+    'mengapa',
+    'siapa', 'siapakah', 'siapapun',
+    'mana',
+    'bisakah',
+    'bolehkah', 'bolehlah',
+    'perlukah',
+    'mungkinkah',
+    'haruskah',
+    'benarkah',
+    'sudahkah',
+
+    # 4. PERTENTANGAN / KONTRAS
+    'tapi', 'tetapi',
+    'namun',
+    'melainkan',
+    'padahal',
+    'walau', 'walaupun',
+    'meski', 'meskipun',
+    'sebaliknya',
+    'malah', 'malahan'
+}
